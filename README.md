@@ -2,4 +2,4 @@
 desafio do curso
 
 ##Link inutil
-(eminho gostoso)[eminhogostoso.blogspot.com]
+[eminho gostoso](eminhogostoso.blogspot.com)
